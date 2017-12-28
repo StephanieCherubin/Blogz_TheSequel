@@ -1,4 +1,4 @@
-# BLOGZ THE SEQUEL
+# BLOGZ the Sequel
 
 ![buildablogror](https://user-images.githubusercontent.com/26418542/34388790-b9741f4e-eb03-11e7-9572-4d725f22db45.png)
 
