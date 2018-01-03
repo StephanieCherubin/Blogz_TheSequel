@@ -1,24 +1,21 @@
-# README
+# BLOGZ the Sequel
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![buildablogror](https://user-images.githubusercontent.com/26418542/34388790-b9741f4e-eb03-11e7-9572-4d725f22db45.png)
 
-Things you may want to cover:
+In this project I created a simple blog system using the basics of Ruby on Rails including:
 
-* Ruby version
+* Models, Views, and Controllers (MVC)
 
 * System dependencies
 
-* Configuration
+* Data Structures & Relationships
 
-* Database creation
+* Routing
 
-* Database initialization
+* Migrations
 
-* How to run the test suite
+* Views with forms, partials, and helper
 
-* Services (job queues, cache servers, search engines, etc.)
+* RESTful design
 
-* Deployment instructions
-
-* ...
+* Adding gems for extra features
